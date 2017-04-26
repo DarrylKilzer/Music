@@ -19,6 +19,13 @@ body {
 }
 
 .panel-body {
+  color: #035141;
   background-image: url("http://wallpaperlayer.com/img/2015/11/thumb/subtle-ios-7-wallpaper-5104-5346-hd-wallpapers-thumb.jpg");
-  background-size: 100%;
+  background-color: rgba(44, 68, 107, 0.8);
+  background-repeat: no-repeat;
+  background-position-y: 10px;
+}
+
+.form {
+  text-align: center;
 }
